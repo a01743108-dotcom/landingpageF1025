@@ -1,0 +1,82 @@
+/* Paleta de colores oficial:
+   Rojo Impulso: #E91D0A
+   Rojo Profundo: #BE0302
+   Negro Espacial: #000000
+   Plata Metálico: #B6B6B6
+*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #000000; /* Negro Espacial */
+    color: #B6B6B6; /* Plata Metálico */
+    text-align: center;
+}
+
+header {
+    background-color: #BE0302; /* Rojo Profundo */
+    padding: 20px;
+    color: white;
+    border-bottom: 3px solid #E91D0A; /* Rojo Impulso */
+}
+
+.logo {
+    font-size: 2.5em;
+    font-weight: 900;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.logo span {
+    color: #000000;
+}
+
+.hero {
+    padding: 100px 20px;
+    background: radial-gradient(circle at center, #1a1a1a 0%, #000000 100%);
+}
+
+.hero h1 {
+    color: #E91D0A; /* Rojo Impulso */
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px rgba(233, 29, 10, 0.5);
+}
+
+.hero p {
+    color: #B6B6B6;
+    font-size: 1.2em;
+}
+
+.challenge-result {
+    padding: 50px 20px;
+}
+
+.challenge-result h2 {
+    color: #ffffff;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.result-box {
+    border: 2px solid #BE0302;
+    border-radius: 8px;
+    padding: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(190, 3, 2, 0.1);
+}
+
+.result-box p {
+    font-size: 1.1em;
+    margin: 0;
+}
+
+footer {
+    padding: 30px;
+    font-size: 0.9em;
+    border-top: 1px solid #333;
+    margin-top: 50px;
+    color: #666;
+}
