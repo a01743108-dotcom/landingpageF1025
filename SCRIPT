@@ -1,0 +1,4 @@
+// Script básico para inicializar la página
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Impulse-X Landing Page Cargada Exitosamente.");
+});
