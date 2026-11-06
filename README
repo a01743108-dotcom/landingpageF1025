@@ -1,0 +1,10 @@
+# Impulse-X Landing Page
+
+## Instrucciones para publicar en GitHub Pages
+1. Crea un nuevo repositorio en GitHub llamado `impulse-x-landing` (o el nombre que prefieras).
+2. Extrae los archivos de este ZIP y súbelos a tu nuevo repositorio (`index.html`, `style.css`, `script.js`).
+3. Ve a la pestaña **Settings** (Configuración) de tu repositorio.
+4. En el menú lateral izquierdo, haz clic en **Pages** (Páginas).
+5. En la sección **Build and deployment**, bajo **Source**, selecciona `Deploy from a branch`.
+6. Bajo **Branch**, selecciona la rama `main` (o `master`) y la carpeta `/ (root)`, luego haz clic en **Save**.
+7. ¡Listo! En un par de minutos, GitHub te mostrará un enlace donde tu página estará pública y en vivo.
